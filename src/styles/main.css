@@ -1,0 +1,47 @@
+.menu{
+    display:inline-block;
+        margin-right:10px;
+        font-family: Arial;
+        font-size: 17px;
+        padding:0;
+}
+
+.header{
+    padding: 70px 70px 0 70px;
+    margin: 0 auto;
+    width:1061px;
+}
+.header__menu{
+    display:inline-block;
+    text-align: right;
+    width:945px;
+    padding:0;
+    
+}
+.logo{
+    display: inline-block;
+}
+.content{
+    margin: 0 auto;
+    width:1061px;
+    
+}
+.menu__item{
+    display: inline-block;
+    margin-right:10 px;
+    font-family: Arial;
+    font-size: 14px;
+    text-transform:uppercase;
+    padding-right:120px;
+}
+.menu__link{
+    color:#c6c6c6;
+     text-decoration: none
+    }
+     .article_title {
+        font-family: Arial;
+        font-size: 14px;
+        text-transform:uppercase;
+
+     }
+
