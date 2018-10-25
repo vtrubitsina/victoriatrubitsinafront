@@ -1,0 +1,156 @@
+body{
+    margin:0;
+}
+.header, .main{
+width:1250px;
+margin: 0 auto;
+}
+.header{
+    padding: 50px 0 100px 0;
+    border-bottom: 1px solid #757575;}
+.header_title{
+    font-family: Arial;
+    font-size: 50px;
+    font-weight: normal;
+    text-transform:uppercase;
+    color:434244;
+    margin:0;
+}
+
+    .header_subtitle{
+    font-family: Arial;
+    font-size: 27px;
+    font-weight: normal;
+    color:434244;
+    margin:15px 0 0 0 ;
+    }
+    
+
+    .contacts{
+        margin:0;
+        padding:0;
+        list-style:none;
+        
+    }
+    .contacts_item{
+        display: inline-block;
+        margin-right:10 px;
+        font-family: Arial;
+        font-size: 17px;
+
+    }
+ .contacts_link{
+     color:#c6c6c6;
+     text-decoration: none;
+
+}
+.header_contacts{
+    margin-top: 30px;
+}
+.main {
+    padding: 40px  0 510px 0;
+    font-size:0;
+   
+}
+.main_avatar{
+    margin-bottom: 35px;
+}
+
+.main_left, .main_right{
+    display:inline-block;
+    vertical-align:top;
+  
+
+}
+.personal_info_title{
+    display:inline-block;
+    margin:0;
+    padding:10px, 35px;
+    background-color:#fcda64;
+    font-family: Arial;
+ font-size: 23px;
+ font-weight:bold;
+ color:#424243;
+}
+
+.personal_info_content{
+    margin-top:35px;
+}
+.main_left{
+    width:425px;
+}
+
+.main_right{
+    box-sizing: border-box;
+    width:820px;
+    padding-left: 65px;
+
+}
+.personal_info_text{
+    margin:0;
+    font-family: Arial;
+    font-size:18px;
+    color:#434244;
+
+  
+}
+.personal_info_date{
+    margin:0;
+    font-family: Arial;
+    font-size:19px;
+    color: #9c9da0;
+    padding-top: 47px;
+        
+}
+.personal_info_speciality{
+    margin:0;
+    font-family: Arial;
+    font-size:19px;
+    color: #424243;
+    padding-top: 33px;
+
+}
+.contacts_link_site{
+    margin:0;
+    font-family: Arial;
+    font-size:19px;
+    color: #424243;
+    padding-top: 23px;
+    text-decoration: none;
+
+}
+.personal_info_website{
+    display: inline-block;
+    margin:0;
+    font-family: Arial;
+    font-size:18px;
+    color:#434244;
+    padding-top: 23px;
+
+}
+.personal_info_description{
+    width:628px;
+    opacity: .5;
+    margin:0;
+    font-family: arial;
+    font-size:17px;
+    color:#434244;
+    padding-top:38px;
+
+}
+.personal_info_nextdate{
+    margin:0;
+    font-family: Arial;
+    font-size:19px;
+    color: #9c9da0;
+    padding-top:72px;
+
+}
+.personal_info_text_bold{
+    font-weight:bold;
+}
+
+.footer{
+    height: 45px;
+    background-color:#fcda64;
+}
